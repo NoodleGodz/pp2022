@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: *Put your name here*
-* Student ID: *Put your ID here*
+* Student Name:  Nguyễn Đăng Minh
+* Student ID: BI11-179

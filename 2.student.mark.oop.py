@@ -91,7 +91,7 @@ class student_list():
                 id=input("Enter new ID: ")
         name=input("Enter Name: ")
         DoB=input("Enter DoB (dd-mm-yyyy) : ")
-        a=Student(id,name,DoB)
+        a= Student(id,name,DoB)
         self.__list.append(a)
     def print_studentlist(self):
         for i in range(len(self.__list)):

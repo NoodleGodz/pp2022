@@ -31,6 +31,7 @@ class Course():
     def __init__(self,id,name):
         self.__id = id
         self.__name = name
+        self.__marklist=[]
     def _get_id(self):
         return self.__id    
     def set_id(self,id): 

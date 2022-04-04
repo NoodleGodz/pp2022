@@ -7,4 +7,4 @@ def main():
     a=student_list()
     b=course_list()
     while True:
-        Switch(get_case())
+        Switch(a,b,get_case())

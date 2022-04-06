@@ -1,4 +1,5 @@
-* 47dc9fc (HEAD -> master, origin/master, origin/HEAD) Update Practical 4
+* 3a7ea6c (HEAD -> master, origin/master, origin/HEAD) Add half practical 5
+* 47dc9fc Update Practical 4
 * 88ea63b Add practical 4
 * 41f817f Add Labwork 3 (Missing Curses UI)
 * d0a69d3 Add Labwork 3 (Missing Curses UI)

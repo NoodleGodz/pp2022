@@ -1,0 +1,75 @@
+* commit 47dc9fc0c55d37111026ea5ecbd8fa8381a144df (HEAD -> master, origin/master, origin/HEAD)
+| Author: NoodleGodz <baybobi4@gmail.com>
+| Date:   Tue Apr 5 00:11:37 2022 +0700
+| 
+|     Update Practical 4
+| 
+* commit 88ea63b4481b21299cd9521ea4907b08cef69580
+| Author: NoodleGodz <baybobi4@gmail.com>
+| Date:   Mon Apr 4 23:56:49 2022 +0700
+| 
+|     Add practical 4
+| 
+* commit 41f817fbe5084b6b1d2f2bd132b149066b979c35
+| Author: NoodleGodz <baybobi4@gmail.com>
+| Date:   Wed Mar 30 11:48:33 2022 +0700
+| 
+|     Add Labwork 3 (Missing Curses UI)
+| 
+* commit d0a69d37bfa247efb02e97be89cbb28045bb100a
+| Author: NoodleGodz <baybobi@TuAnh1.localdomain>
+| Date:   Wed Mar 30 11:45:35 2022 +0700
+| 
+|     Add Labwork 3 (Missing Curses UI)
+| 
+* commit 712d007b67b58de2b2a4c099431b00d606ea1289
+| Author: NoodleGodz <baybobi4@gmail.com>
+| Date:   Wed Mar 23 00:13:53 2022 +0700
+| 
+|     Update 2.student.mark.oop.py
+| 
+* commit 6c1aea3ee44a9fbed0b49651a5c9213bc1e3811a
+| Author: NoodleGodz <baybobi4@gmail.com>
+| Date:   Wed Mar 23 00:10:10 2022 +0700
+| 
+|     Add Practical #2
+|     
+|     Add 2.student.mark.oop.py
+| 
+* commit c11fa65a9b0de7751e81737a3cade3a64df5a501
+| Author: NoodleGodz <baybobi4@gmail.com>
+| Date:   Mon Mar 14 23:20:05 2022 +0700
+| 
+|     Add Switch Case to 1.student.mark.py
+|     
+|     Add Switch Case to 1.student.mark.py
+| 
+* commit 6e6b9b327ed48d4989eb0fd2bd353589b7bf4dcf
+| Author: NoodleGodz <baybobi@TuAnh1.localdomain>
+| Date:   Wed Mar 9 19:49:01 2022 +0700
+| 
+|     Update Student.py
+| 
+* commit 3640f850ce3f72c528cb309d7be464be38797cd5
+| Author: NoodleGodz <baybobi4@gmail.com>
+| Date:   Wed Mar 9 17:50:22 2022 +0700
+| 
+|     Test with Github Desktop and WSL2
+| 
+* commit 44bd71a7c9b0600013812f80a9cda7d9109bc5a7
+| Author: NoodleGodz <baybobi@TuAnh1.localdomain>
+| Date:   Wed Mar 9 12:13:54 2022 +0700
+| 
+|     test in WSL
+| 
+* commit 6ee68edb437d04029e1bfbcc52cfced6293861e2
+| Author: NoodleGodz <baybobi@TuAnh1.localdomain>
+| Date:   Wed Mar 9 11:21:48 2022 +0700
+| 
+|     First student commit
+| 
+* commit b3381c95009643dee009078a04fbb85f946d8230
+  Author: SonTG <sontg.usth@gmail.com>
+  Date:   Wed Mar 9 10:43:53 2022 +0700
+  
+      Add readme file

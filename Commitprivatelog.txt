@@ -1,4 +1,6 @@
-* 1c82c59 (HEAD -> master, origin/master, origin/HEAD) Add practical 5
+* 27b365a (HEAD -> master, origin/master, origin/HEAD) Complete Lab 6
+* 2056c01 Update Lab 5
+* 1c82c59 Add practical 5
 * f5e9ed6 update .gitignore
 * 3a7ea6c Add half practical 5
 * 47dc9fc Update Practical 4

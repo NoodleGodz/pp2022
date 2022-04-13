@@ -1,4 +1,5 @@
-* 6e0b801 (HEAD -> master, origin/master, origin/HEAD) Complete Lab 7
+* a315a30 (HEAD -> master, origin/master, origin/HEAD) Finish Lab 7
+* 6e0b801 Complete Lab 7
 * d6a00c5 Hide the Hidden file
 * e7de15c Update .gitignore
 * 9fd5516 Remove unuse files

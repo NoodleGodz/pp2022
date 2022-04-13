@@ -1,4 +1,9 @@
-* 27b365a (HEAD -> master, origin/master, origin/HEAD) Complete Lab 6
+* 6e0b801 (HEAD -> master, origin/master, origin/HEAD) Complete Lab 7
+* d6a00c5 Hide the Hidden file
+* e7de15c Update .gitignore
+* 9fd5516 Remove unuse files
+* d0f3cd3 Remove unuse files
+* 27b365a Complete Lab 6
 * 2056c01 Update Lab 5
 * 1c82c59 Add practical 5
 * f5e9ed6 update .gitignore
